@@ -14,6 +14,9 @@ https://www.imdb.com
 https://www.primevideo.com  
 https://www.quora.com  
 https://store.steampowered.com/  
+https://www.hulu.com  
+https://www.paypal.com/  
+
 
 
 ## Popular in India

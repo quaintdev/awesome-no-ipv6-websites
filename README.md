@@ -20,6 +20,7 @@ https://steamcommunity.com
 https://www.forbes.com  
 https://www.nytimes.com  
 https://www.cnet.com  
+https://www.pinterest.com  
 
 
 

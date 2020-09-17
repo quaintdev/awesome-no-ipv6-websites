@@ -13,12 +13,13 @@ https://www.goodreads.com
 https://www.imdb.com  
 https://www.primevideo.com  
 https://www.quora.com  
-https://store.steampowered.com/  
+https://store.steampowered.com  
 https://www.hulu.com  
-https://www.paypal.com/  
+https://www.paypal.com  
 https://steamcommunity.com  
-https://www.forbes.com
-https://www.nytimes.com/
+https://www.forbes.com  
+https://www.nytimes.com  
+https://www.cnet.com  
 
 
 

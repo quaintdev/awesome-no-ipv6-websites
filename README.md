@@ -12,7 +12,9 @@ https://www.amazon.com
 https://www.goodreads.com  
 https://www.imdb.com  
 https://www.primevideo.com  
-https://www.quora.com
+https://www.quora.com  
+https://store.steampowered.com/  
+
 
 ## Popular in India
 https://www.amazon.in  

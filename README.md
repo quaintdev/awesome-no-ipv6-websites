@@ -16,6 +16,9 @@ https://www.quora.com
 https://store.steampowered.com/  
 https://www.hulu.com  
 https://www.paypal.com/  
+https://steamcommunity.com  
+https://www.forbes.com
+https://www.nytimes.com/
 
 
 
